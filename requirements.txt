@@ -1,0 +1,8 @@
+requests==2.27.1
+PySocks==1.7.1
+pyuseragents==1.0.5
+python-dotenv==0.19.2
+capmonster-python==2.2
+names==0.3.0
+urllib3==1.26.8
+loguru==0.6.0
